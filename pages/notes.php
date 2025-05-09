@@ -1,10 +1,10 @@
-  <div class="container-lg my-5">
+  <div class="p-5">
         <h3>Note App</h3>
         <div class="d-flex my-5">
             <button class="btn btn-dark btn-create">Create note</button>
         </div>
         <div class="table-responsive">
-            <table class="table table-hover" id="noteTable">
+            <table class="table table-hover table-light" id="noteTable">
                 <thead>
                     <tr>
                         <th>ID</th>

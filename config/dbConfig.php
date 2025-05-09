@@ -5,7 +5,6 @@
     $username = $config["database"]["username"] ?? "root";
     $password = $config["database"]["password"] ?? "";
     $database = $config["database"]["name"] ?? "note_db";
-
     $connection = new mysqli($hostname, $username, $password, $database);
 
     if ($connection->connect_error) {
