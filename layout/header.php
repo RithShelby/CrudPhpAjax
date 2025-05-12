@@ -1,6 +1,6 @@
 <div class="border-bottom d-flex justify-content-between w-100 h-100 p-4">
     <div class="d-flex my-auto ms-2">
-        <button class="btn btn-light border-dark d-none d-md-block" type="button"  id="toggleSidebar">
+        <button class="btn btn-light border-dark d-none d-md-block" type="button" id="toggleSidebar">
             <i class="fa-solid fa-bars"></i>
         </button>
         <button class="btn btn-light border-dark d-sm-block d-md-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample" >
